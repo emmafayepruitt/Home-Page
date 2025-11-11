@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #ffc1cc, #ffdde1);
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  text-align: center;
+  color: #333;
+  overflow: hidden;
+}
+
+#container {
+  max-width: 600px;
+  padding: 20px;
+}
+
+#reason-img {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 15px;
+  margin: 20px 0;
+  display: none;
+}
+
+#reason-text {
+  font-size: 1.5rem;
+  display: none;
+}
