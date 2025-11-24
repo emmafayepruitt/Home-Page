@@ -1,14 +1,14 @@
 const reasons = [
-  { text: "I have 6k trophies in clash", img: "clash.jpg" },
-  { text: "I’m funnier", img: "images/laugh.jpg" },
-  { text: "I have great music taste", img: "images/listen.jpg" },
-  { text: "I'm NOT chopped", img: "images/adventure.jpg" },
-  { text: "I have a really cute cat", img: "images/cook.jpg" },
-  { text: "I have a very postive attitude", img: "images/heart.jpg" },
-  { text: "I’m goated", img: "images/support.jpg" },
-  { text: "I’m beauty", img: "images/cheer.jpg" },
-  { text: "I'm missing joints in all of my toes", img: "images/gift.jpg" },
-  { text: "And lastly.....I LOVE cottage cheese", img: "images/love.jpg" }
+  { text: "I have 6k trophies in clash", img: "IMG_8990.jpg" },
+  { text: "I’m funnier", img: "IMG_8995.jpg" },
+  { text: "I have great music taste", img: "IMG_9001.jpg" },
+  { text: "I'm NOT chopped", img: "IMG_8998.jpg" },
+  { text: "I have a really cute cat", img: "IMG_9002.jpg" },
+  { text: "I have a very postive attitude", img: "IMG_9013.jpg" },
+  { text: "I’m goated", img: "IMG_9020.jpg" },
+  { text: "I’m beauty", img: "IMG_8992.jpg" },
+  { text: "I'm missing joints in all of my toes", img: "IMG_8996.jpg" },
+  { text: "And lastly.....I LOVE cottage cheese", img: "IMG_8987.jpg" }
 ];
 
 let index = -1;
