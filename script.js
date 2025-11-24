@@ -1,5 +1,5 @@
 const reasons = [
-  { text: "I have 6k trophies in clash", img: "images/hug.jpg" },
+  { text: "I have 6k trophies in clash", img: "clash.jpg" },
   { text: "I’m funnier", img: "images/laugh.jpg" },
   { text: "I have great music taste", img: "images/listen.jpg" },
   { text: "I'm NOT chopped", img: "images/adventure.jpg" },
