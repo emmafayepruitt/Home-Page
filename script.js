@@ -5,7 +5,7 @@ const reasons = [
   { text: "I'm NOT chopped", img:"IMG_8998.jpg" },
   { text: "I have a really cute cat", img:"IMG_9002.jpg" },
   { text: "I have a very postive attitude", img:"IMG_9013.jpg" },
-  { text: "I’m goated", img:"IMG_9020.jpg" },
+  { text: "I’m goated", img:"IMG_9021.jpg" },
   { text: "I’m beauty", img:"IMG_8992.jpg" },
   { text: "I'm missing joints in all of my toes", img:"IMG_8996.jpg" },
   { text: "And lastly.....I LOVE cottage cheese", img:"IMG_8987.jpg" }
