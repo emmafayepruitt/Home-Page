@@ -5,7 +5,7 @@ const reasons = [
   { text: "I'm NOT chopped", img:"IMG_8998.jpg" },
   { text: "I have a really cute cat", img:"IMG_9002.jpg" },
   { text: "I have a very postive attitude", img:"IMG_9013.jpg" },
-  { text: "I’m goated", img:"IMG_9017.jpg" },
+  { text: "I’m goated", img:"IMG_9005.jpg" },
   { text: "I’m beauty", img:"IMG_8992.jpg" },
   { text: "I'm missing joints in all of my toes", img:"IMG_8996.jpg" },
   { text: "And lastly.....I LOVE cottage cheese", img:"IMG_8987.jpg" }
@@ -22,7 +22,7 @@ document.body.addEventListener("click", () => {
   if (index === -1) {
     // first click — hide title
     title.style.display = "none";
-    hint.textContent = "Click to see the next reason 💌";
+    hint.textContent = "Click";
     img.style.display = "block";
     text.style.display = "block";
   }
@@ -36,6 +36,6 @@ document.body.addEventListener("click", () => {
     // end
     img.style.display = "none";
     text.textContent = "💘 The End 💘";
-    hint.textContent = "Thanks for clicking through!";
+    hint.textContent = "Are you convinced now"
   }
 });
